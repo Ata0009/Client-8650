@@ -1,0 +1,28 @@
+{
+  "name": "djs-tutorials",
+  "version": "1.0.0",
+  "description": "Cool discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ee3",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.3.1",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ee3devYT/YoutubeTutorials.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ee3devYT/YoutubeTutorials/issues"
+  },
+  "homepage": "https://github.com/ee3devYT/YoutubeTutorials#readme"
+}
